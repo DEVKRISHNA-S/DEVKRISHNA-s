@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Devkrishna Sharma 👋
 
-<!--
-**DEVKRISHNA-S/DEVKRISHNA-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer interested in LLM research.**
 
-Here are some ideas to get you started:
+I'm fascinated by how machines learn, particularly large language models, and I'm interested in understanding them from the foundations to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently exploring
+
+* Reasoning models
+* RLHF and post-training
+* Transformer architectures
+* Efficient and scalable ML systems
+
+### My approach
+
+> **Understand it from the ground up → build it → experiment → take it toward production.**
+
+I enjoy going beyond the abstraction layer—understanding the mechanisms behind models, implementing concepts to learn their internals, and then using those ideas to build real systems.
+
+### Tech
+
+**Languages & Frameworks**
+
+`Python` · `PyTorch` · `Transformers` · `Hugging Face`
+
+**ML Engineering & MLOps**
+
+`Docker` · `AWS` · `GitHub Actions` · `MLflow`
+
+**AI Systems**
+
+`FastAPI` · `LlamaIndex`
+
+### What I'm building
+
+I'm interested in the intersection of:
+
+**LLM Research × Machine Learning × Production Systems**
+
+I use projects as a way to explore ideas, understand systems, and turn what I learn into working software.
+
+---
+
+[GitHub Projects](#) · [LinkedIn](#) · [Email](#)
