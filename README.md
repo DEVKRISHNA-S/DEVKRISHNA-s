@@ -41,4 +41,4 @@ I use projects as a way to explore ideas, understand systems, and turn what I le
 
 ---
 
-[GitHub Projects](#) · [LinkedIn](#) · [Email](#)
+[GitHub Projects](#) · [LinkedIn](www.linkedin.com/in/devkrishna-sharma-46a919304) · [Email](dev645403@gmail.com) . [X](https://x.com/Devkrishans11)
